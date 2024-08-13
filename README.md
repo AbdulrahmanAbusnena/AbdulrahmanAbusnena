@@ -9,7 +9,8 @@ As a committed lifelong learner, I am always eager to explore new technologies a
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdulrahmanAbusnena)](https://github.com/anuraghazra/github-readme-stats)
 
- 
+![Untitled](https://github.com/user-attachments/assets/98ce61f4-d668-4db5-b5cb-b10abca974cc)
+
 <!---
 AbdulrahmanAbusnena/AbdulrahmanAbusnena is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
