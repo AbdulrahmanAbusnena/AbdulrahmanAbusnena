@@ -1,6 +1,4 @@
-# 🧑🏻‍💻 Abdul Abusnena  
-  ![Untitled](https://github.com/user-attachments/assets/f2185279-fe42-4fa4-8fd1-b86095ede3f5)  
- 
+# 🧑🏻‍💻 Abdul Abusnena 
 `Digital Architect`  
 
 I am a skilled mobile application developer with over two years of experience crafting robust and user-centric solutions. My expertise lies in Flutter and Dart, combined with Firebase for backend and database management. I have a proven track record of delivering high-quality mobile apps for clients while actively contributing to the developer community through platforms like Google Developers.
