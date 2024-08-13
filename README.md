@@ -7,7 +7,7 @@ Beyond mobile development, I possess a strong foundation in Java and C++, along 
 
 As a committed lifelong learner, I am always eager to explore new technologies and expand my knowledge. My GitHub portfolio showcases a range of projects that demonstrate my technical abilities and problem-solving skills.
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdulrahmanAbusnena)](https://github.com/anuraghazra/github-readme-stats)
 
  
 <!---
