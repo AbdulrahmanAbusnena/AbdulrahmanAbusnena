@@ -9,7 +9,7 @@
     
 - 📫 How to reach me **abdulrahmanabusnena01@gmail.com**
 
-- ⚡ Fun fact **I watch Anime**
+
 
 <p align="left"> <a href="https://twitter.com/abdulrahma82875" target="blank"><img src="https://img.shields.io/twitter/follow/abdulrahma82875?logo=twitter&style=for-the-badge" alt="abdulrahma82875" /></a> </p>
 
