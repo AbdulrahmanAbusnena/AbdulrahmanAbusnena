@@ -14,7 +14,7 @@
 <p align="left"> <a href="https://twitter.com/abdulrahma82875" target="blank"><img src="https://img.shields.io/twitter/follow/abdulrahma82875?logo=twitter&style=for-the-badge" alt="abdulrahma82875" /></a> </p>
 
 
-
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/abdulrahmanabusnena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="abdulrahmanabusnena" height="30" width="40" /></a>
@@ -31,6 +31,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdulrahmanabusnena" alt="abdulrahmanabusnena" /></a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulrahmanabusnena&show_icons=true&locale=en" alt="abdulrahmanabusnena" /></p>
+<img src="https://metrics.lecoq.io/abdulrahmanabusnena?template=classic&languages=1&achievements=1&activity=1&repositories=1&base=header,activity,community,repositories,metadata" />
+ 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulrahmanabusnena&" alt="abdulrahmanabusnena" /></p>
