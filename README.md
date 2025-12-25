@@ -29,7 +29,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulrahmanabusnena&show_icons=true&locale=en&layout=compact" alt="abdulrahmanabusnena" /></p>  
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdulrahmanabusnena" alt="abdulrahmanabusnena" /></a> </p>
+<p align="left"> <a href="https://github-profile-trophy.screw-hand.vercel.app/?abdulrahmanabusnena=screw-hand&rank=SECRET&wantMultipleOrganizations=true" alt="abdulrahmanabusnena" /></a> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulrahmanabusnena&show_icons=true&locale=en" alt="abdulrahmanabusnena" /></p>
 
