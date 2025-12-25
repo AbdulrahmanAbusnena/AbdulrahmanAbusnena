@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Developer</h3> 
  
 `Digital Architect`   
-   
+    
 - 🔭 I’m currently working on some mobile development projects **AMUNLY**  
          
 - 💬 Ask me about **Flutter and Mobile development in General**    
