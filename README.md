@@ -30,8 +30,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulrahmanabusnena&show_icons=true&locale=en&layout=compact" alt="abdulrahmanabusnena" /></p>  
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdulrahmanabusnena" alt="abdulrahmanabusnena" /></a> </p>
+<p align="center">
+  <img src="https://metrics.lecoq.io/abdulrahmanabusnena?template=classic&base.header=0&languages=1&achievements=1&activity=1&repositories=1&base=activity,repositories,metadata&config.timezone=Africa%2FTripoli" />
+</p>
 
-<img src="https://metrics.lecoq.io/abdulrahmanabusnena?template=classic&languages=1&achievements=1&activity=1&repositories=1&base=header,activity,community,repositories,metadata" />
- 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulrahmanabusnena&" alt="abdulrahmanabusnena" /></p>
