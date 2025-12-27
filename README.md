@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdulrahman</h1> 
 <h3 align="center">A passionate Software Developer</h3> 
    
-`Digital Architect`  
+`Digital Architect`   
   
 - 🔭 I’m currently working on some mobile development projects **Bentloos**
         
