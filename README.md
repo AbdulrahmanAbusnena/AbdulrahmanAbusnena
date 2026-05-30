@@ -1,36 +1,37 @@
 <h1 align="center">Hi 👋, I'm Abdulrahman</h1> 
-<h3 align="center">A passionate Mobile Developer</h3> 
+<h3 align="center">Software Developer</h3> 
 
-`Digital Architect`  
-
-- 🔭 I’m currently working on some mobile development projects **Bentloos**
-
+---
+`Digital Architect`
+- 🔭 I’m currently working on mobile development
 - 💬 Ask me about **Flutter and Mobile development in General**   
-
 - 📫 How to reach me **abdulrahmanabusnena01@gmail.com**
-
 - ⚡ Fun fact **I watch Anime**
 
-<p align="left"> <a href="https://twitter.com/abdulrahma82875" target="blank"><img src="https://img.shields.io/twitter/follow/abdulrahma82875?logo=twitter&style=for-the-badge" alt="abdulrahma82875" /></a> </p>
-
-
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/abdulrahmanabusnena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="abdulrahmanabusnena" height="30" width="40" /></a>
-<a href="https://twitter.com/abdulrahma82875" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdulrahma82875" height="30" width="40" /></a>
+  <a href="https://dev.to/abdulrahmanabusnena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="abdulrahmanabusnena" height="30" width="40" /></a>
+  <a href="https://twitter.com/abdulrahma82875" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdulrahma82875" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
-</a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a  href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> </p>
+# 💻 Tech Stack:
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulrahmanabusnena&show_icons=true&locale=en&layout=compact" alt="abdulrahmanabusnena" /></p>  
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdulrahmanabusnena" alt="abdulrahmanabusnena" /></a> </p>
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AbdulrahmanAbusnena&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulrahmanabusnena&show_icons=true&locale=en" alt="abdulrahmanabusnena" /></p>
+# 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=AbdulrahmanAbusnena&theme=merko&hide_border=false&include_all_commits=true&count_private=true" height="180" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AbdulrahmanAbusnena&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="180" />
+</p> upstream
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulrahmanabusnena&" alt="abdulrahmanabusnena" /></p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=AbdulrahmanAbusnena&theme=merko&hide_border=false" />
+</p>
