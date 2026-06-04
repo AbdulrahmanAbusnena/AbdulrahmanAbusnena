@@ -20,17 +20,13 @@
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AbdulrahmanAbusnena&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-</p>
+ 
 
 # 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=AbdulrahmanAbusnena&theme=merko&hide_border=false&include_all_commits=true&count_private=true" height="180" />
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AbdulrahmanAbusnena&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="180" />
-</p> upstream
+</p>  
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=AbdulrahmanAbusnena&theme=merko&hide_border=false" />
