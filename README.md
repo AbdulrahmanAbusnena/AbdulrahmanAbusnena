@@ -2,7 +2,7 @@
 <h3 align="center">Software Developer</h3>  
 
 ---
-`Digital Architect`
+`Digital Architect` 
 - 🔭 I’m currently working on mobile development 
 - 💬 Ask me about **Flutter and Mobile development in General**    
 - 📫 How to reach me **abdulrahmanabusnena01@gmail.com**
